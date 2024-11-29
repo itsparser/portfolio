@@ -80,7 +80,7 @@ The game presented difficult moral choices and a gripping narrative that require
 
 A brilliant co-op game that emphasizes communication and coordination. This taught me the value of clear collaboration, which translates well into working with cross-functional teams in engineering projects.
 
-## Thanks to been remember
+## Thinks to been remember
 
 ### Time Limit
 
